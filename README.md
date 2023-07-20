@@ -1,4 +1,4 @@
-# Hangman
+# Hangman (2021)
 
 ## FR 
 Nul besoin de décrire le jeu du pendu.
