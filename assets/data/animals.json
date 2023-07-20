@@ -1,0 +1,24 @@
+{
+  "FRANCAIS": [
+    "SERPENT",
+    "CHAT",
+    "CHIEN",
+    "SINGE",
+    "ELEPHANT",
+    "POISSON",
+    "CERF",
+    "CHEVREUIL",
+    "PAPILLON"
+  ],
+  "ENGLISH": [
+    "SNAKE",
+    "CAT",
+    "DOG",
+    "MONKEY",
+    "ELEPHANT",
+    "FISH",
+    "STAG",
+    "DEER",
+    "BUTTERFLY"
+  ]
+}
